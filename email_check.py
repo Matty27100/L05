@@ -1,3 +1,3 @@
 def is_valid_email(s):
-  
-    return "@" in s and "." in s
+   
+    return "@" in s or "." in s
